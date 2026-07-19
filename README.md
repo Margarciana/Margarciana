@@ -1,6 +1,4 @@
-
-<img width="4950" height="1238" alt="Banner para Linkedin Personal Minimalista Neutral (1)" src="https://github.com/user-attachments/assets/9bb35ad0-2b96-44a2-a7ab-3b1a84b46ac0" />
-
+<img width="4950" height="1238" alt="Banner para Linkedin Personal Minimalista Neutral (2)" src="https://github.com/user-attachments/assets/4b2f522f-f3fb-4d15-ae91-0ddf129be34c" />
 ## Hello, welcome 👋
 
 <!--
